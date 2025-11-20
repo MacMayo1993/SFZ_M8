@@ -1,5 +1,3 @@
-Perfect. Then the positioning is:
-
 > **SFZ-M8: Bit-Exact Geometric Compression for Telemetry, Audio, Scientific Signals, and Microstructure Data**
 
 Not “just a codec.”
