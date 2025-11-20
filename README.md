@@ -1,11 +1,3 @@
-> **SFZ-M8: Bit-Exact Geometric Compression for Telemetry, Audio, Scientific Signals, and Microstructure Data**
-
-Not “just a codec.”
-It is an **information geometry layer** that sits *before* entropy coding.
-
-Here’s your professional startup-scientific README.
-
----
 
 # SFZ-M8
 
