@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sfz-m8"
+version = "0.1.0"
+description = "Geometry-aware lossless compression for time series"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+authors = [{name = "Mac Mayo"}]
+dependencies = [
+    "numpy>=1.21",
+    "zstandard>=0.21.0",
+]
+
+[project.urls]
+Repository = "https://github.com/MacMayo1993/SFZ_M8"
